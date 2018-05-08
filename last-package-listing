@@ -1,0 +1,44 @@
+accounts-password                   1.1.8  Password support for accounts
+accounts-ui                         1.1.9  Simple templates to add login widgets to an app
+arch:ace-editor                     1.2.1  Integrating Ace editor with Meteor since 2015
+blaze-html-templates                1.0.4  Compile HTML templates into reactive UI with Meteor Blaze
+check                               1.2.1  Check whether a value matches a pattern
+dataflows:jsoneditor                0.0.1  A straightforward wrapper around https://github.com/josdejong/jsoneditor.
+ejson                               1.0.11  Extended and Extensible JSON library
+hitchcott:app-dump                  0.4.2  In-app Backup and Restore for your Mongo Database
+http                                1.1.5  Make HTTP calls to remote servers
+insecure                            1.0.7  (For prototyping only) Allow all database writes from the client
+iron:router                         1.0.12  Routing specifically designed for Meteor
+jquery                              1.11.8  Manipulate the DOM using CSS selectors
+linto:jquery-ui                     1.11.2  jquery-ui 1.11.2 re-packaged for meteorjs
+logging                             1.0.12  Logging facility.
+meteor-base                         1.0.4  Packages that every Meteor app needs
+meteorhacks:async                   1.0.0  Set of async utilities to work with NPM modules and other async code blocks
+meteorhacks:npm                     1.5.0  Use npm modules with your Meteor App
+mizzao:bootboxjs                    4.4.0  Programmatic dialog boxes using Twitter's bootstrap modals
+mizzao:bootstrap-3                  3.3.1_1  HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+mizzao:user-status                  0.6.6  User connection and idle state tracking for Meteor
+mobile-experience                   1.0.4  Packages for a great mobile user experience
+momentjs:moment                     2.13.1  Moment.js (official): parse, validate, manipulate, and display dates - official Meteor packaging
+mongo                               1.1.7  Adaptor for using MongoDB and Minimongo over DDP
+mrt:nprogress                       0.2.0  NProgress for Meteor
+npm-container                       1.1.0+ Contains all your npm dependencies
+pfafman:filesaver                   0.2.3_2  filesaver.js packaged for use in Meteor.
+random                              1.0.9  Random number generator and utilities
+reactive-dict                       1.1.7  Reactive dictionary
+reload                              1.1.8  Reload the page while preserving application state.
+risul:chance                        1.0.8  Meteor package for Chance - Random generator helper for JavaScript: http://chancejs.com
+sacha:spin                          2.3.1  Simple spinner package for Meteor
+session                             1.1.5  Session variable
+spacebars                           1.0.11  Handlebars-like template language for Meteor
+standard-minifier-css               1.0.6  Standard css minifier used with Meteor apps by default.
+standard-minifier-js                1.0.6  Standard javascript minifiers used with Meteor apps by default.
+tomi:upload-jquery                  2.4.0  Client template for uploads using "jquery-file-upload" from blueimp
+tomi:upload-server                  1.3.4  Upload server for Meteor. Allows to save and serve files from arbitrary directory
+tracker                             1.0.13  Dependency tracker to allow reactive callbacks
+underscorestring:underscore.string  3.3.4  underscore.string (official): String manipulation extensions for Underscore.js javascript library.
+
+
+
+
++ These packages are built locally from source.

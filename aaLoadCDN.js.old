@@ -1,0 +1,15 @@
+var script = document.createElement('script');
+script.setAttribute('type', 'text/javascript');
+//script.setAttribute('src', '/vis.4.21.0.js');
+//script.setAttribute('src', '/vis.js');
+script.setAttribute('src', 'https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.js');
+document.getElementsByTagName('head')[0].appendChild(script);
+
+
+var link = document.createElement('link');
+link.setAttribute('rel', 'stylesheet');
+link.setAttribute('type', 'text/css');
+link.setAttribute('href', 'https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.css');
+//link.setAttribute('href', '/vis.4.21.0.css');
+//link.setAttribute('href', '/vis.css');
+document.getElementsByTagName('head')[0].appendChild(link);

@@ -1,0 +1,15 @@
+{
+  "name": "tinkertools",
+  "version": "3.0.9",
+  "description": "Tinkerpop graph database tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ssadams11/tinkertoolsOSS.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
