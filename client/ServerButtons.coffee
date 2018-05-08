@@ -20,7 +20,7 @@ Template.ServerButtons.rendered = ->
               Session.set 'tinkerPopVersion', tpVersion
               setTimeout( ->
                 document.getElementById('serverSelector').value=newURL
-                $("#serverSelector").onchange()
+                $("#serverSelector").change()
               ,500)
 
 Template.ServerButtons.helpers
